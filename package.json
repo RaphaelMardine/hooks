@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.25",
+    "@types/react-query": "^1.2.9",
+    "file-saver": "^2.0.5",
+    "formik": "^2.2.9",
+    "material-ui": "^0.20.2",
+    "moment": "^2.29.4",
+    "mui": "^0.0.1",
+    "react-query": "^3.39.2",
+    "yup": "^0.32.11"
+  }
+}
